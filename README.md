@@ -77,7 +77,7 @@ I am a results-driven **B.Tech Computer Science** student with deep expertise in
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenikunj&theme=tokyonight&hide_border=true" alt="Nikunj's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikunjKumar26&theme=tokyonight&hide_border=true" alt="Nikunj's Streak" />
 </div>
 
 ---
