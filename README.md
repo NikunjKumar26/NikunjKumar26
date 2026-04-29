@@ -69,10 +69,10 @@ I am a results-driven **B.Tech Computer Science** student with deep expertise in
 <div align="center">
   <br>
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thenikunj&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="Nikunj's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikunjKumar26&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="Nikunj's Stats" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenikunj&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Nikunj's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikunjKumar26&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Nikunj's Top Languages" />
 </div>
 
 <div align="center">
