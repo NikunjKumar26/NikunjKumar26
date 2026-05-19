@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <b>CS Student (B.Tech)</b> | <b>Vijayawada, India</b>
+    <b>CSE Student (B.Tech)</b> | <b>Vijayawada, India</b>
   </p>
 
   <!-- Social Links -->
