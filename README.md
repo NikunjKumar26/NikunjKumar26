@@ -54,16 +54,6 @@ I am a results-driven **B.Tech Computer Science** student with deep expertise in
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description | Links |
-| :--- | :--- | :--- | :--- |
-| **Nabha Healthcare** | React, Node, Socket.io | • Relationship DB for 500+ records.<br>• Real-time notifications via Socket.io.<br>• Improved engagement by 25%. | [🔴 Live Demo](https://nabha-health-care-two.vercel.app/) |
-| **Event Platform (DEMP)** | MERN Stack, DevOps | • Scalable Event Management system.<br>• 99.9% uptime deployment.<br>• Analytics integration. | [🔴 Live Demo](https://event-advent.vercel.app/) |
-| **Intelligent E-Commerce** | SQL, React, Stored Procedures | • Optimized SQL queries for 1000+ items.<br>• Reduced execution time by 50%.<br>• Complex inventory logic. | [💻 Code](https://github.com/thenikunj) |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
